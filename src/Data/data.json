@@ -1,0 +1,122 @@
+[
+    {
+      "id": 1,
+      "name": "Adidas Stan Smith Shoes",
+      "alias": "adidas-stan-smith-shoes",
+      "price": 90,
+      "description": "These Stan Smiths are part of that first bold step into the future. Graphics with a hand-drawn look remind us that each one of us has an individual part to play in building a better future.\r\n\r\n",
+      "shortDescription": "This product is made with Primegreen, a series of high-performance recycled materials. 50% of upper is recycled content. No virgin polyester.\r\n\r\n",
+      "quantity": 995,
+      "image": "./images/stan-smith-shoes.png"
+    },
+    {
+      "id": 2,
+      "name": "Adidas NMD_R1 Shoes",
+      "alias": "adidas-nmd-r1-shoes",
+      "price": 140,
+      "description": "The incredible energy return of adidas Boost is created by fusing together energy capsules, giving you the power to keep your feet moving.\r\n\r\n",
+      "shortDescription": "A collaboration with female-owned print studio HER Studio London, showcasing their eye and mind for bold patterns on adidas silhouettes.\r\n\r\n",
+      "quantity": 990,
+      "image": "./images/adidas-nmd-r1-shoes.png"
+    },
+    {
+      "id": 3,
+      "name": "Adidas ULTRA4D Shoes",
+      "alias": "adidas-ultra4d-shoes",
+      "price": 220,
+      "description": "Liquid resin, light and oxygen are combined to create a futuristic lattice midsole. The result is precise tuning and long-lasting comfort.\r\n\r\n",
+      "shortDescription": "A foot-hugging knit upper is supplemented with a supportive cage and heel counter, and a high-traction outsole keeps you secure on your feet.\r\n\r\n",
+      "quantity": 415,
+      "image": "./images/adidas-ultra4d-shoes.png"
+    },
+    {
+      "id": 4,
+      "name": "Adidas Superstar Shoes",
+      "alias": "adidas-superstar-shoes",
+      "price": 85,
+      "description": "They've got a smooth leather upper with sporty 3-Stripes and a heel tab.\r\n\r\n",
+      "shortDescription": "They're finished off with the world-famous rubber shell toe.\r\n\r\n",
+      "quantity": 542,
+      "image": "./images/adidas-superstar-shoes.png"
+    },
+    {
+      "id": 5,
+      "name": "Adidas NMD_R1 Primeknit Shoes",
+      "alias": "adidas-nmd-r1-primeknit-shoes",
+      "price": 180,
+      "description": "These adidas shoes combine inspiration from the most iconic NMDs and create a bold statement through color. Continue the legacy with signature NMD plugs and a flexible sock-like upper.\r\n\r\n",
+      "shortDescription": "Energy-returning cushioning keeps you comfortable all day. The party is already off to a solid start with these ones.\r\n\r\n",
+      "quantity": 674,
+      "image": "./images/adidas-nmd-r1-primeknit-shoes.png"
+    },
+    {
+      "id": 6,
+      "name": "Adidas OZWEEGO Shoes",
+      "alias": "adidas-ozweego-shoes",
+      "price": 110,
+      "description": "These adidas OZWEEGO Shoes evolve the code of an innovative late-'90s runner.\r\n\r\n",
+      "shortDescription": "A mixed-material upper combines with Adiprene cushioning for a retro look with an amazing feel.\r\n\r\n",
+      "quantity": 456,
+      "image": "./images/adidas-ozweego-shoes.png"
+    },
+    {
+      "id": 7,
+      "name": "Adidas Forum Low Shoes",
+      "alias": "adidas-forum-low-shoes",
+      "price": 90,
+      "description": "The adidas Forum shoes made a splash the moment they stepped out onto the hardwood in the '80s. So it's only fitting that this modern version gets splashed with bright colors in return.\r\n\r\n",
+      "shortDescription": "The signature ankle strap and X-detail stand out even more.\r\n\r\n",
+      "quantity": 854,
+      "image": "./images/adidas-forum-low-shoes.png"
+    },
+    {
+      "id": 8,
+      "name": "Adidas Ultraboost 21 Shoes",
+      "alias": "adidas-ultraboost-21-shoes",
+      "price": 180,
+      "description": "The new Torsion System provides a 15% increase in forefoot bending stiffness for a more responsive run.\r\n\r\n",
+      "shortDescription": "6% more Boost capsules ready to explode with energy in each step.\r\n\r\n",
+      "quantity": 524,
+      "image": "./images/adidas-ultraboost-21-shoes.png"
+    },
+    {
+      "id": 9,
+      "name": "Adidas Ultraboost S&L DNA Shoes",
+      "alias": "adidas-ultraboost-s&l-dna-shoes",
+      "price": 180,
+      "description": "The incredible energy return of adidas Boost is created by fusing together energy capsules, giving you the power to keep your feet moving.\r\n\r\n",
+      "shortDescription": "Egle Zvirblyte is an artist whose work explores themes of identity, love and female power.",
+      "quantity": 599,
+      "image": "./images/adidas-ultraboost-s&l-dna-shoes.png"
+    },
+    {
+      "id": 10,
+      "name": "ASICS Gel-Nimbus 23",
+      "alias": "asics-gel-nimbus-23",
+      "price": 150,
+      "description": "Providing the runner with excellent shock absorption and softness, the GEL-NIMBUS® 23 delivers more compression in the heel thanks to its softer GEL® technology cushioning unit and contoured design lines.\r\n\r\n",
+      "shortDescription": "Under the toe, the inclusion of gender-specific pillars help cushion the body and help runners experience a softer feel.",
+      "quantity": 984,
+      "image": "./images/asics-gel-nimbus-23.png"
+    },
+    {
+      "id": 11,
+      "name": "ASICS Gel-Kayano 27 Tokyo",
+      "alias": "asics-gel-kayano-27-tokyo",
+      "price": 160,
+      "description": "The midsole integrates SPACE TRUSSTIC™ technology, which provides stability and reduces the overall weight to help promote a smoother transition from footstrike to toe-off. This added stability is complemented by deeper forefoot flex grooves that create a smoother roll through toe-off, allowing the shoe to move more naturally with the foot.\r\n\r\n",
+      "shortDescription": "Featuring a limited model offering, this iteration is displayed with a Sunrise Red colorway to celebrate the city of Tokyo and the country of Japan.",
+      "quantity": 875,
+      "image": "./images/asics-gel-kayano-27-tokyo.png"
+    },
+    {
+      "id": 12,
+      "name": "ASICS Gel-Venture 8",
+      "alias": "asics-gel-venture-8",
+      "price": 70,
+      "description": "This versatile shoe is excellent for trail runs, light hiking or exploring a new city. This model has been updated with a more accommodating forefoot fit, while reducing the amount of overlays around the forefoot without sacrificing durability.\r\n\r\n",
+      "shortDescription": "the outsole is more durable with a traction pattern that's been improved with re-engineered lugs under the heel.",
+      "quantity": 445,
+      "image": "./images/asics-gel-venture-8.png"
+    } 
+  ]
